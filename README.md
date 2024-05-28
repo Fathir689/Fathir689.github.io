@@ -75,7 +75,7 @@
     <p></p>
 </body>
             <p>Perkenalkan nama saya Muhammad Fathir Azis Pratama 
-            Saya pernah menjuarai turnament sepak bola sewaktu SMP tetapi kalah</p>
+            Saya pernah mengikuti turnament sepak bola sewaktu SMP tetapi kalah</p>
             <h2>PENGALAMAN KERJA & ORGANISASI</h2>
             <head>
     <meta charset="UTF-8">
